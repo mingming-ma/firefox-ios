@@ -22,6 +22,9 @@
 /* Text to let users know that the current website is not secure. */
 "Menu.EnhancedTrackingProtection.Details.ConnectionUnsecure.v128" = "La connexió no és segura";
 
+/* Text to let users know that no trackers were found on the current website. */
+"Menu.EnhancedTrackingProtection.Details.NoTrackers.v131" = "No s'ha trobat cap element de seguiment";
+
 /* Text to let users know how many cross-site tracking cookies were blocked on the current website. The placeholder will show the number of such cookies detected */
 "Menu.EnhancedTrackingProtection.Details.Trackers.CrossSite.v129" = "Galetes de seguiment entre llocs: %@";
 
