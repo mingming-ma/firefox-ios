@@ -131,7 +131,7 @@
 "Settings.Search.Suggest.LearnAboutSuggestions.v124" = "Saznaj više o funkciji Firefox prijedlozi";
 
 /* Description for `Show in Private Sessions` toggle, located in `Address Bar - Firefox Suggest` section in the Search page in the Settings menu. */
-"Settings.Search.Suggest.PrivateSession.Description.v125" = "Prikaži prijedloge od Firefox prijedlozi u privatnim sesijama";
+"Settings.Search.Suggest.PrivateSession.Description.v125" = "Prikaži prijedloge od „Firefox prijedlozi” u privatnim sesijama";
 
 /* In the Search page of the Settings menu, the title for the setting to enable search browsing history. */
 "Settings.Search.Suggest.SearchBrowsingHistory.Title.v124" = "Pretraži povijest pregledavanja";
